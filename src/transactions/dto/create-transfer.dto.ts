@@ -1,9 +1,13 @@
 import { IsNotEmpty, IsNumber, IsPositive, IsString } from 'class-validator';
 
-export class CreateExpenseDto {
+export class CreateTransferDto {
   @IsString()
   @IsNotEmpty()
   accountFromId!: string;
+
+  @IsString()
+  @IsNotEmpty()
+  accountToId!: string;
 
   @IsNumber()
   @IsPositive()
