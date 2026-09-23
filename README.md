@@ -18,9 +18,9 @@ A resilient NestJS backend engine handling virtual wallet balances, peer-to-peer
 ---
 
 ## ✨ Key Features
-- ⚡ **ACID-compliant balance transfers with database transactions**: ACID-compliant balance transfers with database transactions
-- ⚡ **Wallet top-up and withdrawal ledger recording**: Wallet top-up and withdrawal ledger recording
-- ⚡ **Token-based security and request authorization**: Token-based security and request authorization
+- ACID-compliant balance transfers with database transactions
+- Wallet top-up and withdrawal ledger recording
+- Token-based security and request authorization
 
 ---
 
