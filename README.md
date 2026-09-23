@@ -12,19 +12,19 @@
 
 ---
 
-## 📌 Overview
+## Overview
 A resilient NestJS backend engine handling virtual wallet balances, peer-to-peer transfers, top-ups, and transaction audit trails.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - ACID-compliant balance transfers with database transactions
 - Wallet top-up and withdrawal ledger recording
 - Token-based security and request authorization
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Framework**: NestJS
 - **Language**: TypeScript
 - **ORM**: Prisma ORM
@@ -32,7 +32,7 @@ A resilient NestJS backend engine handling virtual wallet balances, peer-to-peer
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 saldoin-server/
 ├── src/
@@ -44,7 +44,7 @@ saldoin-server/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the required runtimes and tools installed on your machine:
@@ -61,7 +61,7 @@ npm run start:dev
 
 ---
 
-## 👤 Author
+## Author
 **Mohammad Kevin Arif Rudianto**
 - **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
 - **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
@@ -70,9 +70,9 @@ npm run start:dev
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
-⭐️ If you found this repository useful, please consider giving it a star!
+If you found this repository useful, please consider giving it a star!
 </div>
